@@ -6,7 +6,7 @@ Custom timer app, including a COOL animation
 ---
 
 ### Installization
-only in mac,
+only in mac, Best with iphone 11
 - download the zip file
 - open ```timer..xcodeproj```
 - run
